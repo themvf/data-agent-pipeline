@@ -1,0 +1,25 @@
+# 🧠 Data Agent Pipeline
+
+A reusable, agent-driven pipeline for understanding datasets and handling missing values using structured AI agents.
+
+---
+
+## 🚀 What This Does
+
+This pipeline analyzes a dataset in 3 steps:
+
+1. **Data Profiling**
+   - Understand structure
+   - Detect missing values
+
+2. **Feature Strategy**
+   - Classify columns
+   - Assess predictability
+
+3. **Imputation Strategy**
+   - Recommend how to handle missing data
+   - Highlight risks (bias, leakage)
+
+---
+
+## 🏗️ Project Structure
